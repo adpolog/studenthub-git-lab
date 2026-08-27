@@ -15,3 +15,7 @@ Managed with Git and GitHub.
 ## Version
 
 0.1.0
+
+## Collaboration
+
+Development follows a branch and pull request workflow.
